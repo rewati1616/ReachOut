@@ -1,16 +1,50 @@
-# React + Vite
+🌐 ReachOut - Rewati
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive personal portfolio/contact web application designed to help users connect easily through a clean and user-friendly interface. This project is built using core web technologies and deployed on Netlify for fast and reliable access.
 
-Currently, two official plugins are available:
+✨ Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🔗 https://reachout-rewati.netlify.app/
 
-## React Compiler
+🚀 Features
+📩 Simple and clean contact/landing interface
+📱 Fully responsive design (mobile, tablet, desktop)
+⚡ Fast loading and lightweight UI
+🎨 Modern and minimal design aesthetics
+🧭 Easy navigation and user-friendly layout
+🌐 Deployed online for instant access
+💡 Smooth and interactive UI experience
+🛠️ Technologies Used
+HTML5
+CSS3 (Flexbox / Responsive Design)
+JavaScript (Vanilla JS)
+Netlify (Deployment)
+📂 Project Structure
+reachout-rewati/
+│── index.html
+│── style.css
+│── script.js
+│── assets/
+│── README.md
+🚀 How to Run Locally
+Clone or download the repository
+Open the project folder
+Run index.html in any modern browser
+No installation or backend required
+🎯 Purpose of Project
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This project was built to strengthen frontend development skills and demonstrate:
 
-## Expanding the ESLint configuration
+Responsive UI design
+Clean component structure
+Real-world portfolio/contact page layout
+Deployment using Netlify
+📌 Future Improvements
+Add backend for message handling
+Integrate email service (EmailJS / Node.js API)
+Add animations for better UX
+Improve form validation and error handling
+👩‍💻 Author
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Rewati Warhade
+Frontend Developer | MERN Stack Enthusiast
