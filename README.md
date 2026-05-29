@@ -32,7 +32,7 @@ A modern, responsive personal portfolio/contact web application designed to conn
 
 ## 📂 Project Structure
 
-
+  
 reachout-rewati/
 │── index.html
 │── style.css
