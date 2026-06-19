@@ -75,6 +75,6 @@ This project was built to improve frontend development skills and demonstrate:
 
 **Rewati Warhade**  
 Frontend Developer | MERN Stack Enthusiast  '
-EmailId: rwar23@gmial.com
+EmailId: rmwar23@gmial.com
 ```
 
