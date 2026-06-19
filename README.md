@@ -74,7 +74,7 @@ This project was built to improve frontend development skills and demonstrate:
 ## 👩‍💻 Author
 
 **Rewati Warhade**  
-Frontend Developer | MERN Stack Enthusiast  '
+Frontend Developer | MERN Stack Enthusiast  
 EmailId: rmwar23@gmial.com
 ```
 
