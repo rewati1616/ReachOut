@@ -40,7 +40,7 @@ const Navbar = () => {
             whileHover={{ scale: 1.05 }}
             className="text-2xl font-display font-bold"
           >
-            <span className="gradient-text">Rewati Warhade</span>
+            <span className="gradient-text text-green-400">Rewati Warhade</span>
           </motion.div>
 
           {/* Desktop Menu */}
