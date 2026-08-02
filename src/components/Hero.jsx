@@ -55,7 +55,7 @@ const Hero = () => {
                   download
                   className="border-2 border-primary-500 text-primary-500 px-8 py-3 rounded-lg font-medium hover:bg-primary-500 hover:text-white transition-all"
                 >
-                  Download CV
+                  Download CV 
                 </motion.a>
               </div>
 
