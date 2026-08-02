@@ -45,7 +45,7 @@ const Hero = () => {
                   onClick={scrollToProjects}
                   className="bg-primary-500 text-white px-8 py-3 rounded-lg font-medium hover:bg-primary-600 transition-colors"
                 >
-                  View My Work
+                  View My Work 
                 </motion.button>
                 <motion.a
                   whileHover={{ scale: 1.05 }}
