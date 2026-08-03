@@ -5,7 +5,7 @@ import { personalInfo } from '../data/data';
 const Footer = () => {
   return (
     <footer className="bg-dark-800 border-t border-dark-700 py-8">
-      <div className="max-w-6xl mx-auto px-6 text-center">
+      <div className="max-w-6xl mx-auto px-6 text-center">   
         <p className="text-dark-400 flex items-center justify-center gap-2">
           Designed & Built by {personalInfo.name} with{' '}
           <FaHeart className="text-primary-500" />
