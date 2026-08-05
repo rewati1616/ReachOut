@@ -1,6 +1,6 @@
 # 🌐 ReachOut - Rewati     
    
-A modern, responsive personal portfolio/contact web application designed to connect people through a clean, minimal, and user-friendly interface. The project focuses on simplicity, responsiveness, and smooth user experience.     
+A modern, responsive personal portfolio/contact web application designed to connect people through a clean, minimal, and user-friendly interface. The project focuses on simplicity, responsiveness, and smooth user experience.        
 
 ---
      
