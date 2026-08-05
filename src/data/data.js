@@ -95,6 +95,23 @@ export const experience = [
       "Implemented responsive designs for mobile compatibility"
     ]
   }
+    {
+    id: 2,
+    role: "Full Stack Developer",
+    company: "Apriden Pvt. Ltd.",
+    period: "Jun 2026 – Present",
+    description:
+      "Working as a Full Stack Developer, designing and developing recruitment management solutions, REST APIs, and scalable web applications while collaborating with cross-functional teams.",
+    achievements: [
+      "Developed and maintained a Recruitment Management System (ATS).",
+      "Built responsive user interfaces using React.js and Tailwind CSS.",
+      "Designed and developed REST APIs using Node.js and Express.js.",
+      "Integrated MySQL database with optimized queries and backend services.",
+      "Implemented resume upload, search, duplicate detection, and candidate management features.",
+      "Worked on deployment, debugging, and production issue resolution using cPanel and Linux servers.",
+      "Collaborated with recruiters and stakeholders to deliver new features and improvements."
+    ]
+  }
 ];
 
 export const socialLinks = {
