@@ -94,7 +94,7 @@ export const experience = [
       "Optimized database queries reducing load time by 40%",
       "Implemented responsive designs for mobile compatibility"
     ]
-  }
+  },
     {
     id: 2,
     role: "Full Stack Developer",
