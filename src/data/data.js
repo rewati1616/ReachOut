@@ -83,19 +83,7 @@ export const projects = [
 ];
 
 export const experience = [
-  {
-    id: 1,
-    role: "Full Stack Developer Intern",
-    company: "ProAzure Software Solution Pvt. Ltd",
-    period: "Jan 2025 - Oct 2025",
-    description: "Developed and maintained web applications using MERN stack. Collaborated with cross-functional teams to deliver high-quality software solutions.",
-    achievements: [
-      "Built 3 client projects using React and Node.js",
-      "Optimized database queries reducing load time by 40%",
-      "Implemented responsive designs for mobile compatibility"
-    ]
-  },
-    {
+   {
     id: 2,
     role: "Full Stack Developer",
     company: "Apriden Pvt. Ltd.",
@@ -110,6 +98,18 @@ export const experience = [
       "Implemented resume upload, search, duplicate detection, and candidate management features.",
       "Worked on deployment, debugging, and production issue resolution using cPanel and Linux servers.",
       "Collaborated with recruiters and stakeholders to deliver new features and improvements."
+    ]
+  },
+  {
+    id: 1,
+    role: "Full Stack Developer Intern",
+    company: "ProAzure Software Solution Pvt. Ltd",
+    period: "Jan 2025 - Oct 2025",
+    description: "Developed and maintained web applications using MERN stack. Collaborated with cross-functional teams to deliver high-quality software solutions.",
+    achievements: [
+      "Built 3 client projects using React and Node.js",
+      "Optimized database queries reducing load time by 40%",
+      "Implemented responsive designs for mobile compatibility"
     ]
   }
 ];
